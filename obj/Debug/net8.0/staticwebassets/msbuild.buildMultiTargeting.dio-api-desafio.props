@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dio-api-desafio.props" />
+</Project>
